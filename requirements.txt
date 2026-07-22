@@ -6,4 +6,3 @@ Pillow==10.0.0
 plotly==5.17.0
 protobuf==3.20.3
 h5py==3.11.0
-keras==3.0.0
